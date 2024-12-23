@@ -1,5 +1,5 @@
 ## Hi there 👋
-Working as a Jira Administrator/Systems Coodinator - Utilizing RESTful APIs to manage data interactions with Jira Cloud.
+Working as a Jira Administrator/Systems Coodinator - utilizing RESTful APIs to manage data interactions with Jira Cloud.
 I'm currently learning Flask and SQL Alchemy. 
 
 <!--
