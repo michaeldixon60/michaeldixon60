@@ -1,4 +1,6 @@
 ## Hi there 👋
+Working as a Jira Administrator/Systems Coodinator - Utilizing RESTful APIs to manage data interactions with Jira Cloud.
+I'm currently learning Flask and SQL Alchemy. 
 
 <!--
 **michaeldixon60/michaeldixon60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
